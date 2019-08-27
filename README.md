@@ -17,4 +17,4 @@
 **Chapter Nine:** Dictionaries (3 hours) </br>
 **Chapter Ten:** Tuples (2 hours) </br>
 **Graduation and work on independent program (2 hours) </br>
-Complete independent program (2 hours)</br>
+Complete independent program (2 hours)**</br>
