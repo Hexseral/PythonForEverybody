@@ -31,3 +31,15 @@ Perspective Employers - artifact will be added to my student portfolio which cou
 **Chapter Ten:** Tuples (2 hours) </br>
 **Graduation and work on independent program (2 hours) </br>
 Complete independent program (2 hours)**</br>
+                                         **Overview**
+Week 1:
+
+Week 2:
+
+Week 3:
+
+Week 4:
+
+Week 5:
+
+Week 6:
