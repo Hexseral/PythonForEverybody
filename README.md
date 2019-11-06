@@ -37,8 +37,10 @@ Complete independent program (2 hours)**</br>
 Week 1:</br>
 A Base introduction into the class with no coding, basically just gives relative and relavent ideas about programming in general. It glazes over the importance of programming and how it will be the future and it will allow us to do tedius tasks with numbers through using algorithms. It also touches on a good skill to being a master is also being a teacher and a student, meaning it is a field which will always have you learning something new and if you can teach a concept then you will understand it more clearly. This definetly peaked my interest in the class a bit more and I am excited to see what unfolds within the next week.
 </br>
+</br>
 Week 2: </br>
 Once again more broad and less about programming. It talks about IDE's and what they do in order to process code and output what is inputed from the code. We installed python as well which is the programming language we will be learning throughout the course. After installing python and an IDE to compile our code we went over basic arithmatic expressions and how they will be written in python.
+</br>
 </br>
 print (16+3) = 19 </br>
 print (16-3) = 13 </br>
@@ -49,14 +51,40 @@ print (16//3) = integor division </br>
 print (16%3) = 1 </br>
 </br>
 Week 3: </br>
-
+This week is still somewhat broad like week one but it goes over how programs are very specific and that if you are running into error on a simple program it is a lot of times possible that there is syntax issues. It also somewhat delves into the idea of being in a problem solving mindset which means you must not get frustrated and just think and go through trial and error. The assignment for this week is Hello world. somwhat simple goes over base syntax and the print function. Pretty easy week, looking forward to building basic algorithms hopefully in the next week.
+</br>
 </br>
 Week 4: </br>
-
+Week 4 goes over a lot of the basic arithmatic functions that we already covered in class so it was somewhat a breeze due to past programming experience that I have with JavaScript. Another mental note is 0 is 1 in programming which is a bit odd but it makes sense in an odd way. looking forward to the next week, excited for class as well I am enjoying finally having a class to follow along with rather than trying to learn as I go from sites like stack overflow and whatnot.
+</br>
 </br>
 Week 5: </br>
 
 </br>
+</br>
 Week 6: </br>
-
+In week six the main topic is If/Else and Elif statments. We went over this in class and I had a pretty good grasp of when to use them so it was nice to have this side course as a good refresher to give me a bit more knowledge on how to apply them. If and else can be pretty simple, if something is true follow the next line of code, anything ELSE follow the line of code after the else statment. Elif is interesting because there can be an unlimited amount of them until one of them is met with the correct output. This allows for multiple outcome options when coding. An example given: 
+</br>
+  grade = int(input("Enter your grade:"))
+  </br>
+   if grade >= 90:
+   </br>
+   print ("Very Good!")
+   </br>
+  elif grade >= 80:
+  </br>
+   print ("Good!")
+   </br>
+  elif grade >= 70:
+  </br>
+   print ("Fair")
+   </br>
+  elif grade >= 60:
+  </br>
+   print ("Satisfactory")
+   </br>
+  else:
+  </br>
+   print ("Poor")
+</br>
 </br>
