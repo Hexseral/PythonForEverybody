@@ -1,4 +1,4 @@
-# PythonForEverybody
+# Python For Everybody
  __**Goals**__  </br>
  Complete the Python for Everybody Specialization </br>
 **Boundaries / Scope**  </br>
