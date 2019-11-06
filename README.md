@@ -59,7 +59,8 @@ Week 4 goes over a lot of the basic arithmatic functions that we already covered
 </br>
 </br>
 Week 5: </br>
-
+This week is all about how computers make decisions and how there is a process behined it. It is important to understand this process because this is how the problem solving process will become an algorithm. We used a simple software that helped with this idea, it was called Raptor and essentially allowed the user to build a problem solution tree that would then get translated into code. This is good for understanding how to create a simple algorithm but the more complex problems require complex solutions, which is why it is important to comprehend the problem solving process in depth. as professof vanselow would say 
+DON'T GET STUCK ON AN ESCALATOR 
 </br>
 </br>
 Week 6: </br>
