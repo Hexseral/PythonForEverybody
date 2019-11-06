@@ -39,13 +39,13 @@ A Base introduction into the class with no coding, basically just gives relative
 </br>
 **Week 2:** </br>
 Week two is once again more broad and less about programming. It talks about IDE's and what they do in order to process code and output what is inputed from the code. We installed python as well which is the programming language we will be learning throughout the course. After installing python and an IDE to compile our code we went over basic arithmatic expressions and how they will be written in python. 
-print (16+3) = 19
-print (16-3) = 13
-print (16*3) = 48
-print (16* *3) = 4096
-print (16/3) = 5.33
-print (16//3) = integor division
-print (16%3) = 1 (remainder)
+print (16+3) = 19 </br>
+print (16-3) = 13 </br>
+print (16*3) = 48 </br>
+print (16* *3) = 4096 </br>
+print (16/3) = 5.33 </br>
+print (16//3) = integor division </br>
+print (16%3) = 1 (remainder) </br>
 </br>
 **Week 3:** </br>
 
