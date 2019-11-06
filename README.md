@@ -34,10 +34,10 @@ Complete independent program (2 hours)**</br>
 <h1 align="center">
                                          Overview </br>
 </h1>
-Week 1:
+**Week 1:**</br>
 A Base introduction into the class with no coding, basically just gives relative and relavent ideas about programming in general. It glazes over the importance of programming and how it will be the future and it will allow us to do tedius tasks with numbers through using algorithms. It also touches on a good skill to being a master is also being a teacher and a student, meaning it is a field which will always have you learning something new and if you can teach a concept then you will understand it more clearly. This definetly peaked my interest in the class a bit more and I am excited to see what unfolds within the next week.
 </br>
-Week 2:
+**Week 2:**</br>
 Week two is once again more broad and less about programming. It talks about IDE's and what they do in order to process code and output what is inputed from the code. We installed python as well which is the programming language we will be learning throughout the course. After installing python and an IDE to compile our code we went over basic arithmatic expressions and how they will be written in python. 
 print (16+3) = 19
 print (16-3) = 13
@@ -47,15 +47,15 @@ print (16/3) = 5.33
 print (16//3) = integor division
 print (16%3) = 1 (remainder)
 </br>
-Week 3:
+**Week 3:**</br>
 
 </br>
-Week 4:
+**Week 4:**</br>
 
 </br>
-Week 5:
+**Week 5:**</br>
 
 </br>
-Week 6:
+**Week 6:**</br>
 
 </br>
