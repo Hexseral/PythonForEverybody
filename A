@@ -1,0 +1,21 @@
+import java.util.Arrays;
+
+public class Test {
+	  public static void main(String[] args) {
+		  double[] Arr = {1, 4, 9, 16, 2, 6};
+		  FlipElements(Arr);
+		 System.out.println(Arrays.toString(Arr));
+}
+
+	private static void FlipElements(double[] arr) {
+	    int i = 0;
+		double temp;
+	    while(i + 1 < arr.length){
+	        temp = arr[i];
+	        arr[i] = arr[i + 1];
+	        arr[i + 1] = temp;
+	        i += 2;
+	    }
+		
+	}
+}
